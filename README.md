@@ -32,11 +32,11 @@
 
 ## Output:
 
-![image](https://github.com/Virumaaharish/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146074950/ed962aa5-04ee-4993-b5d5-59e80dfb3cbe)
+![image](https://github.com/Virumaaharish/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/146074950/358b990c-5c4c-45e9-9370-0f7d336e922f)
 
 
-### Name:
-### Register Number:
+### Name:Virumaa harish.M
+### Register Number:23013147
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
